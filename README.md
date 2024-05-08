@@ -6,7 +6,7 @@ Desenvolver uma aplicação básica usando Laravel que gerencie médicos, pacien
 ## Requisitos Técnicos
 
 ### 1. Configuração Inicial
-- Criar um projeto Laravel usando o Composer (utilizado a versão 7 será um diferencial).
+- Criar um projeto Laravel usando o Composer (versão 7/diferencial).
 - Configurar o ambiente de desenvolvimento utilizando Docker (diferencial).
 - Aplicar o padrão de commits GitFlow no desenvolvimento.
 
