@@ -37,6 +37,7 @@ Desenvolver uma aplicação básica usando Laravel que gerencie médicos, pacien
 ## Entrega
 - O código deve ser enviado para um repositório GitHub com o uso adequado do GitFlow.
 - Documentar brevemente como configurar e rodar o projeto no `README.md`.
+- Encaminhar o link do repositório para o e-mail `jobs@beecoffee.com.br`.
 
 ## Avaliação
 - Clareza e qualidade do código.
