@@ -26,6 +26,7 @@ Desenvolver uma aplicação básica usando Laravel que gerencie médicos, pacien
 ### 4. CRUDs
 - Desenvolver interfaces para o CRUD de cada entidade: pacientes, médicos e atendimentos.
 - Utilizar Bootstrap para estilizar as páginas (diferencial).
+- Implementação do padrão "Conventional Commits" para mensagens de commits.
 
 ### 5. Funcionalidades Adicionais
 - Criar uma funcionalidade de relatórios que liste atendimentos por médico.
